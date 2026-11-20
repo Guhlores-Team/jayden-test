@@ -1,0 +1,461 @@
+listing_id,company_name,category,address,city,state,phone,removed_at
+L04218,Novak & Ortiz Accounting Co.,Professional,6202 Ranch Rd,Round Rock,TX,(915) 555-1665,2026-11-19 23:24:59
+L02615,Ortiz Auto Repair Ltd.,Automotive,1439 Oak Ave,Arlington,TX,(512) 555-2244,2026-11-19 23:24:59
+L00496,Patel Accounting Co.,Professional,3713 Congress Ave,Arlington,TX,(512) 555-5678,2026-11-19 23:24:59
+L01074,Cruz & Grant Accounting LLC,Professional,6374 Ranch Rd,Fort Worth,TX,(817) 555-8283,2026-11-19 23:24:59
+L00523,Chen Pet Grooming Inc.,Lifestyle,1181 Congress Ave,Waco,TX,(214) 555-9577,2026-11-19 23:24:59
+L04707,Park & Brooks Grill Co.,Food,3256 Mesa Rd,Waco,TX,(713) 555-2542,2026-11-19 23:24:59
+L03738,Reyes & Mendez Physical Therapy Corp.,Health,7461 Lamar Blvd,Waco,TX,(210) 555-3575,2026-11-19 23:24:59
+L03816,Delgado & Webb Grill Ltd.,Food,5852 Bluff Ln,Austin,TX,(214) 555-6373,2026-11-19 23:24:59
+L02141,Coleman & Kim Roofing & Sons,Home Services,6919 Lamar Blvd,Round Rock,TX,(817) 555-4786,2026-11-19 23:24:59
+L00776,Yoder & Lopez Catering,Food,1022 Pecan Dr,Plano,TX,(713) 555-1488,2026-11-19 23:24:59
+L01613,Northside Pest Control LLC,Home Services,740 Mesa Rd,Plano,TX,(210) 555-4073,2026-11-19 23:24:59
+L00015,Ibarra & Quinn Catering LLC,Food,4107 Ranch Rd,Austin,TX,(713) 555-5579,2026-11-19 23:24:59
+L04163,Coleman Landscaping Co.,Home Services,8233 Bluff Ln,Round Rock,TX,(214) 555-0981,2026-11-19 23:24:59
+L00873,Cedar Park Tire & Lube Ltd.,Automotive,3766 Oak Ave,Plano,TX,(817) 555-5336,2026-11-19 23:24:59
+L04122,Torres Insurance Agency Ltd.,Professional,1193 Cypress Way,Austin,TX,(210) 555-8709,2026-11-19 23:24:59
+L02274,Webb Printing Co.,Business Services,6742 Bluff Ln,Arlington,TX,(915) 555-0989,2026-11-19 23:24:59
+L03227,Riverbend Fitness Inc.,Lifestyle,1212 Elm St,Arlington,TX,(713) 555-5845,2026-11-19 23:24:59
+L03905,Lambert & Ramirez Landscaping Group,Home Services,7612 Ranch Rd,Houston,TX,(915) 555-1884,2026-11-19 23:24:59
+L01554,Coastal Accounting & Sons,Professional,9824 Lamar Blvd,Dallas,TX,(915) 555-8821,2026-11-19 23:24:59
+L02814,Morgan & Torres Pest Control Corp.,Home Services,6187 Pecan Dr,Corpus Christi,TX,(817) 555-3059,2026-11-19 23:24:59
+L02089,Midtown Pharmacy Group,Health,757 Market St,Arlington,TX,(214) 555-9395,2026-11-19 23:24:59
+L00867,Ellis Family Clinic,Health,913 Elm St,San Antonio,TX,(512) 555-3087,2026-11-19 23:24:59
+L03604,Lopez & Webb Collision Center & Sons,Automotive,4176 Congress Ave,Houston,TX,(817) 555-0847,2026-11-19 23:24:59
+L02048,Cruz Collision Center Inc.,Automotive,7292 Cypress Way,San Antonio,TX,(210) 555-4575,2026-11-19 23:24:59
+L04914,Coleman Realty,Professional,7926 Elm St,Fort Worth,TX,(210) 555-5388,2026-11-19 23:24:59
+L03770,Torres & Garcia Pharmacy Inc.,Health,5073 Bluff Ln,Houston,TX,(214) 555-3968,2026-11-19 23:24:59
+L00067,Ellis & Hayes Insurance Agency LLC,Professional,8383 Oak Ave,Round Rock,TX,(512) 555-1436,2026-11-19 23:24:59
+L04980,Ramirez Tire & Lube LLC,Automotive,4799 Lamar Blvd,San Antonio,TX,(713) 555-2495,2026-11-19 23:24:59
+L00500,Walsh & Yoder Roofing Group,Home Services,9269 Lamar Blvd,Austin,TX,(817) 555-5604,2026-11-19 23:24:59
+L02556,Webb Physical Therapy Ltd.,Health,4349 Lamar Blvd,El Paso,TX,(713) 555-0698,2026-11-19 23:24:59
+L01675,Kim & Holt Collision Center Co.,Automotive,5870 Pecan Dr,Fort Worth,TX,(713) 555-5625,2026-11-19 23:24:59
+L04968,Marsh & Ellis Staffing & Sons,Business Services,1474 Pecan Dr,Fort Worth,TX,(817) 555-5629,2026-11-19 23:24:59
+L01748,Hayes Printing Inc.,Business Services,7192 Market St,Austin,TX,(214) 555-2490,2026-11-19 23:24:59
+L02251,Castillo & Walsh Realty Co.,Professional,9840 Mesa Rd,Houston,TX,(214) 555-1204,2026-11-19 23:24:59
+L04552,Heritage Roofing Ltd.,Home Services,7772 Market St,Round Rock,TX,(817) 555-6214,2026-11-19 23:24:59
+L02609,Ibarra Consulting LLC,Professional,5917 Mesa Rd,Austin,TX,(817) 555-0959,2026-11-19 23:24:59
+L04207,Reyes & Shah Pharmacy Co.,Health,9053 Market St,Waco,TX,(915) 555-1589,2026-11-19 23:24:59
+L03196,Quinn Heating & Air & Sons,Home Services,231 Main St,Fort Worth,TX,(817) 555-0115,2026-11-19 23:24:59
+L02210,Zamora & Carter Catering Co.,Food,2946 Lamar Blvd,San Antonio,TX,(214) 555-4984,2026-11-19 23:24:59
+L01158,Vargas Photography Inc.,Lifestyle,7603 Pecan Dr,El Paso,TX,(817) 555-4669,2026-11-19 23:24:59
+L00049,Quinn & Keller Pest Control LLC,Home Services,6602 Pecan Dr,Austin,TX,(713) 555-3545,2026-11-19 23:24:59
+L02092,Fischer Pest Control,Home Services,184 Commerce St,Fort Worth,TX,(214) 555-8484,2026-11-19 23:24:59
+L03682,Lopez & Dawson Dental Care Group,Health,7488 Pecan Dr,San Antonio,TX,(915) 555-9027,2026-11-19 23:24:59
+L01601,Yoder & Bennett Heating & Air Ltd.,Home Services,7778 Pecan Dr,Austin,TX,(214) 555-4213,2026-11-19 23:24:59
+L02613,Gibson Accounting & Sons,Professional,2683 Lamar Blvd,Lubbock,TX,(214) 555-9514,2026-11-19 23:24:59
+L04514,Marsh & Coleman Physical Therapy LLC,Health,2798 Ranch Rd,San Antonio,TX,(713) 555-5467,2026-11-19 23:24:59
+L04269,Ramirez & Garcia Photography Inc.,Lifestyle,9664 Oak Ave,Waco,TX,(713) 555-0810,2026-11-19 23:24:59
+L03328,Capital Bakery & Sons,Food,3297 Ranch Rd,Plano,TX,(817) 555-1629,2026-11-19 23:24:59
+L03754,Bennett Physical Therapy & Sons,Health,9752 Ranch Rd,El Paso,TX,(214) 555-8216,2026-11-19 23:24:59
+L01057,Kim & Marsh Insurance Agency Inc.,Professional,2852 Cypress Way,Dallas,TX,(915) 555-0233,2026-11-19 23:24:59
+L03113,Kim Pet Grooming Ltd.,Lifestyle,7248 Pecan Dr,Austin,TX,(214) 555-6918,2026-11-19 23:24:59
+L04673,Kim & Ibarra IT Solutions Ltd.,Business Services,8240 Market St,Lubbock,TX,(713) 555-9622,2026-11-19 23:24:59
+L04215,Marsh & Grant Coffee Roasters Corp.,Food,8312 Main St,Corpus Christi,TX,(512) 555-2405,2026-11-19 23:24:59
+L04193,Tanaka & Ibarra Bakery Group,Food,3221 Mesa Rd,Corpus Christi,TX,(210) 555-9367,2026-11-19 23:24:59
+L01383,Hale Grill Group,Food,3339 Elm St,Corpus Christi,TX,(817) 555-8426,2026-11-19 23:24:59
+L01299,Shah & Barnes Catering Group,Food,5475 Mesa Rd,Austin,TX,(512) 555-3591,2026-11-19 23:24:59
+L02085,Metro Cleaners,Lifestyle,8930 Congress Ave,Plano,TX,(210) 555-9442,2026-11-19 23:24:59
+L00986,Zamora & Gibson Roofing Corp.,Home Services,5515 Elm St,Fort Worth,TX,(210) 555-8909,2026-11-19 23:24:59
+L03555,Lambert Landscaping LLC,Home Services,5078 Elm St,Dallas,TX,(210) 555-1384,2026-11-19 23:24:59
+L00011,Rhodes & Webb Insurance Agency Group,Professional,1387 Mesa Rd,Waco,TX,(817) 555-8393,2026-11-19 23:24:59
+L01455,Castillo Family Clinic Co.,Health,6029 Pecan Dr,Round Rock,TX,(713) 555-0179,2026-11-19 23:24:59
+L04813,Gibson & Alvarez Pet Grooming & Sons,Lifestyle,4185 Lamar Blvd,Arlington,TX,(817) 555-5596,2026-11-19 23:24:59
+L00027,Quinn & Brooks Roofing Co.,Home Services,4033 Main St,San Antonio,TX,(210) 555-4540,2026-11-19 23:24:59
+L01785,Ibarra & Coleman Coffee Roasters Group,Food,4445 Market St,Lubbock,TX,(713) 555-5169,2026-11-19 23:24:59
+L01634,Chen & Hale Logistics,Business Services,5619 Oak Ave,Arlington,TX,(512) 555-7861,2026-11-19 23:24:59
+L01201,Delgado & Morgan Pest Control,Home Services,2916 Pecan Dr,Plano,TX,(713) 555-4071,2026-11-19 23:24:59
+L03552,Sloan & Carter Pet Grooming Corp.,Lifestyle,7268 Elm St,Austin,TX,(512) 555-4904,2026-11-19 23:24:59
+L03275,Novak & Whitaker Auto Repair Inc.,Automotive,8695 Elm St,Arlington,TX,(817) 555-4601,2026-11-19 23:24:59
+L04104,Delgado & Mendez Physical Therapy Co.,Health,2614 Cypress Way,Corpus Christi,TX,(512) 555-1342,2026-11-19 23:24:59
+L04391,Keystone Heating & Air & Sons,Home Services,5719 Congress Ave,Fort Worth,TX,(915) 555-4358,2026-11-19 23:24:59
+L00494,Baker & Park Catering LLC,Food,9080 Commerce St,Arlington,TX,(817) 555-1551,2026-11-19 23:24:59
+L04128,Lambert & Ortiz Law Group Corp.,Professional,6009 Lamar Blvd,San Antonio,TX,(214) 555-4874,2026-11-19 23:24:59
+L01833,Walsh & Carter Pharmacy Inc.,Health,1942 Mesa Rd,Fort Worth,TX,(713) 555-3544,2026-11-19 23:24:59
+L03446,Keller & Carter Accounting Corp.,Professional,605 Main St,Waco,TX,(817) 555-2325,2026-11-19 23:24:59
+L03385,Marsh Plumbing LLC,Home Services,1823 Commerce St,El Paso,TX,(713) 555-6802,2026-11-19 23:24:59
+L03540,Ortiz Printing,Business Services,1326 Main St,Houston,TX,(713) 555-1541,2026-11-19 23:24:59
+L03645,Abbott Logistics Co.,Business Services,2575 Market St,Plano,TX,(210) 555-2210,2026-11-19 23:24:59
+L02459,Coleman & Tanaka Cleaners,Lifestyle,3972 Bluff Ln,Plano,TX,(214) 555-7723,2026-11-19 23:24:59
+L03099,Lambert & Marsh Physical Therapy Co.,Health,2246 Oak Ave,Round Rock,TX,(512) 555-3658,2026-11-19 23:24:59
+L00501,Ramirez & Vargas IT Solutions Corp.,Business Services,9719 Bluff Ln,Round Rock,TX,(512) 555-1139,2026-11-19 23:24:59
+L03866,Santos & Ibarra Collision Center & Sons,Automotive,4419 Mesa Rd,Austin,TX,(915) 555-3743,2026-11-19 23:24:59
+L01581,Grant Insurance Agency Co.,Professional,1160 Pecan Dr,San Antonio,TX,(817) 555-5220,2026-11-19 23:24:59
+L04754,Frontier Pest Control Inc.,Home Services,6031 Mesa Rd,Corpus Christi,TX,(915) 555-1195,2026-11-19 23:24:59
+L04245,Brooks & Chen Family Clinic LLC,Health,1620 Mesa Rd,Round Rock,TX,(210) 555-6810,2026-11-19 23:24:59
+L02247,Nash & Carter Logistics LLC,Business Services,3945 Mesa Rd,Arlington,TX,(210) 555-8599,2026-11-19 23:24:59
+L04359,Keller IT Solutions Co.,Business Services,4467 Congress Ave,Arlington,TX,(817) 555-7680,2026-11-19 23:24:59
+L01466,Yoder & Reyes Accounting Corp.,Professional,220 Mesa Rd,Plano,TX,(512) 555-5372,2026-11-19 23:24:59
+L00859,Delgado Insurance Agency Inc.,Professional,6690 Main St,Houston,TX,(915) 555-3068,2026-11-19 23:24:59
+L04922,Ortiz Dental Care LLC,Health,8262 Ranch Rd,Fort Worth,TX,(210) 555-1564,2026-11-19 23:24:59
+L04568,Riverbend Pest Control & Sons,Home Services,4447 Main St,Dallas,TX,(915) 555-9670,2026-11-19 23:24:59
+L02263,Whitaker & Santos Heating & Air Group,Home Services,8501 Pecan Dr,Corpus Christi,TX,(512) 555-4040,2026-11-19 23:24:59
+L01589,Rhodes & Ibarra Accounting Co.,Professional,8088 Bluff Ln,Dallas,TX,(512) 555-6096,2026-11-19 23:24:59
+L03111,Sloan Collision Center & Sons,Automotive,2340 Cypress Way,El Paso,TX,(817) 555-7564,2026-11-19 23:24:59
+L02348,Pioneer Realty & Sons,Professional,8829 Bluff Ln,Round Rock,TX,(915) 555-0350,2026-11-19 23:24:59
+L00443,Lone Star Printing LLC,Business Services,9221 Mesa Rd,Waco,TX,(210) 555-8241,2026-11-19 23:24:59
+L03950,Tanaka & Barnes Pharmacy LLC,Health,8537 Elm St,Austin,TX,(210) 555-8210,2026-11-19 23:24:59
+L02419,Lambert Accounting Corp.,Professional,8034 Cypress Way,Arlington,TX,(512) 555-4528,2026-11-19 23:24:59
+L03562,Park Heating & Air,Home Services,7779 Elm St,El Paso,TX,(210) 555-4820,2026-11-19 23:24:59
+L02336,Garcia Printing LLC,Business Services,3495 Pecan Dr,San Antonio,TX,(713) 555-3496,2026-11-19 23:24:59
+L00029,Pioneer Bakery LLC,Food,9689 Mesa Rd,Fort Worth,TX,(512) 555-5154,2026-11-19 23:24:59
+L01599,Cedar Park Collision Center & Sons,Automotive,1929 Bluff Ln,Houston,TX,(915) 555-9537,2026-11-19 23:24:59
+L02062,Shah & Morgan Photography LLC,Lifestyle,9559 Main St,Corpus Christi,TX,(915) 555-2055,2026-11-19 23:24:59
+L00866,Lopez & Cruz Consulting LLC,Professional,2146 Oak Ave,San Antonio,TX,(214) 555-5760,2026-11-19 23:24:59
+L00791,Fischer Consulting Inc.,Professional,2713 Bluff Ln,Arlington,TX,(915) 555-6687,2026-11-19 23:24:59
+L02677,Hayes & Brooks Pharmacy LLC,Health,5324 Pecan Dr,Waco,TX,(713) 555-6363,2026-11-19 23:24:59
+L04659,Ramirez Logistics Co.,Business Services,8240 Oak Ave,Fort Worth,TX,(915) 555-3902,2026-11-19 23:24:59
+L03295,Walsh Staffing,Business Services,2343 Bluff Ln,Round Rock,TX,(915) 555-6683,2026-11-19 23:24:59
+L03928,Santos Plumbing,Home Services,2215 Congress Ave,Corpus Christi,TX,(817) 555-1590,2026-11-19 23:24:59
+L04189,Ramirez & Zamora IT Solutions Corp.,Business Services,7630 Oak Ave,Arlington,TX,(210) 555-8317,2026-11-19 23:24:59
+L04782,Quinn & Kim Bakery Ltd.,Food,1353 Congress Ave,Round Rock,TX,(817) 555-7137,2026-11-19 23:24:59
+L03898,Quinn & Ibarra Fitness Co.,Lifestyle,3219 Oak Ave,Austin,TX,(915) 555-0396,2026-11-19 23:24:59
+L03761,Abbott Coffee Roasters Ltd.,Food,551 Lamar Blvd,Arlington,TX,(512) 555-2030,2026-11-19 23:24:59
+L04686,Lambert & Shah Coffee Roasters,Food,942 Congress Ave,El Paso,TX,(915) 555-9533,2026-11-19 23:24:59
+L04672,Holt & Ortiz Bakery Co.,Food,3269 Ranch Rd,Corpus Christi,TX,(214) 555-7384,2026-11-19 23:24:59
+L02466,Keller & Fischer Family Clinic Corp.,Health,4241 Lamar Blvd,Dallas,TX,(210) 555-4466,2026-11-19 23:24:59
+L01326,Capital Insurance Agency LLC,Professional,2333 Main St,Waco,TX,(817) 555-8940,2026-11-19 23:24:59
+L02236,Vance & Tanaka Fitness Group,Lifestyle,5478 Congress Ave,Corpus Christi,TX,(915) 555-4559,2026-11-19 23:24:59
+L00355,Jensen Bakery Group,Food,3430 Oak Ave,Plano,TX,(915) 555-1158,2026-11-19 23:24:59
+L04009,Holt & Hayes Realty Co.,Professional,6831 Lamar Blvd,Round Rock,TX,(512) 555-3545,2026-11-19 23:24:59
+L00962,Carter Coffee Roasters Group,Food,4239 Elm St,El Paso,TX,(214) 555-0054,2026-11-19 23:24:59
+L01189,Fischer & Morgan Family Clinic LLC,Health,3012 Ranch Rd,Waco,TX,(210) 555-1758,2026-11-19 23:24:59
+L03054,Holt & Nash Heating & Air Group,Home Services,5560 Ranch Rd,Corpus Christi,TX,(210) 555-9032,2026-11-19 23:24:59
+L01738,Coleman Bakery Group,Food,7534 Bluff Ln,San Antonio,TX,(713) 555-1382,2026-11-19 23:24:59
+L00403,Zamora Accounting Group,Professional,6439 Congress Ave,Fort Worth,TX,(915) 555-6964,2026-11-19 23:24:59
+L00631,Hayes & Baker IT Solutions Group,Business Services,9350 Elm St,Austin,TX,(817) 555-2517,2026-11-19 23:24:59
+L02584,Castillo Fitness,Lifestyle,5277 Congress Ave,Arlington,TX,(817) 555-0821,2026-11-19 23:24:59
+L04960,Quinn & Walsh Electric & Sons,Home Services,5452 Market St,Plano,TX,(915) 555-1685,2026-11-19 23:24:59
+L04516,Bluebonnet Collision Center & Sons,Automotive,3985 Ranch Rd,Dallas,TX,(713) 555-2818,2026-11-19 23:24:59
+L03177,Novak & Santos Pharmacy Group,Health,1584 Oak Ave,San Antonio,TX,(214) 555-4414,2026-11-19 23:24:59
+L04343,Lopez Pest Control Group,Home Services,3590 Mesa Rd,San Antonio,TX,(713) 555-4299,2026-11-19 23:24:59
+L00723,Crescent Photography Group,Lifestyle,2385 Oak Ave,Arlington,TX,(713) 555-6138,2026-11-19 23:24:59
+L01157,Shah & Nash Plumbing,Home Services,4650 Main St,Houston,TX,(817) 555-2990,2026-11-19 23:24:59
+L02068,Mendez Law Group Inc.,Professional,1721 Market St,Dallas,TX,(210) 555-7668,2026-11-19 23:24:59
+L00841,Carter & Delgado Collision Center Co.,Automotive,2056 Bluff Ln,Dallas,TX,(512) 555-8238,2026-11-19 23:24:59
+L02765,Novak Family Clinic LLC,Health,8340 Cypress Way,Plano,TX,(210) 555-5680,2026-11-19 23:24:59
+L03048,Gibson Dental Care Ltd.,Health,7555 Commerce St,Dallas,TX,(512) 555-9904,2026-11-19 23:24:59
+L03615,Whitaker Family Clinic LLC,Health,4500 Commerce St,Austin,TX,(214) 555-6337,2026-11-19 23:24:59
+L00780,Ibarra Accounting Corp.,Professional,1844 Bluff Ln,Waco,TX,(713) 555-0116,2026-11-19 23:24:59
+L04868,Quinn & Carter Coffee Roasters,Food,618 Pecan Dr,El Paso,TX,(817) 555-1348,2026-11-19 23:24:59
+L01182,Novak Pest Control Inc.,Home Services,395 Bluff Ln,Austin,TX,(210) 555-0200,2026-11-19 23:24:59
+L03719,Carter Family Clinic Co.,Health,8120 Lamar Blvd,Plano,TX,(915) 555-3046,2026-11-19 23:24:59
+L00065,Zamora & Brooks Tire & Lube & Sons,Automotive,4377 Congress Ave,San Antonio,TX,(817) 555-7082,2026-11-19 23:24:59
+L02956,Castillo Insurance Agency Ltd.,Professional,7508 Main St,Plano,TX,(713) 555-7336,2026-11-19 23:24:59
+L01222,Coleman & Hale Roofing & Sons,Home Services,2601 Cypress Way,Fort Worth,TX,(210) 555-4554,2026-11-19 23:24:59
+L01749,Webb & Castillo Photography Inc.,Lifestyle,3110 Ranch Rd,Arlington,TX,(512) 555-1568,2026-11-19 23:24:59
+L00487,Torres & Fischer Insurance Agency,Professional,2986 Cypress Way,El Paso,TX,(817) 555-7817,2026-11-19 23:24:59
+L02785,Santos Electric Corp.,Home Services,7044 Mesa Rd,Arlington,TX,(210) 555-3400,2026-11-19 23:24:59
+L01428,Baker Staffing Group,Business Services,4026 Mesa Rd,Dallas,TX,(817) 555-9180,2026-11-19 23:24:59
+L01259,Foster Accounting Corp.,Professional,6019 Mesa Rd,Austin,TX,(214) 555-3401,2026-11-19 23:24:59
+L02939,Castillo & Bennett Cleaners Co.,Lifestyle,6439 Cypress Way,Plano,TX,(210) 555-7921,2026-11-19 23:24:59
+L00037,Kim Insurance Agency Corp.,Professional,7988 Commerce St,Corpus Christi,TX,(817) 555-7959,2026-11-19 23:24:59
+L02927,Quinn Pharmacy Co.,Health,1804 Bluff Ln,Round Rock,TX,(210) 555-6857,2026-11-19 23:24:59
+L00794,Fischer & Marsh Staffing,Business Services,5829 Lamar Blvd,Corpus Christi,TX,(915) 555-5430,2026-11-19 23:24:59
+L00021,Coleman & Webb Grill LLC,Food,3721 Cypress Way,Fort Worth,TX,(713) 555-1370,2026-11-19 23:24:59
+L03461,Shah & Mendez Realty Co.,Professional,3365 Ranch Rd,Waco,TX,(817) 555-7310,2026-11-19 23:24:59
+L02224,Zamora Realty Co.,Professional,4581 Cypress Way,Lubbock,TX,(512) 555-3706,2026-11-19 23:24:59
+L00624,Ellis Pharmacy Inc.,Health,3286 Lamar Blvd,El Paso,TX,(214) 555-1454,2026-11-19 23:24:59
+L04278,Metro Fitness,Lifestyle,7185 Mesa Rd,San Antonio,TX,(512) 555-6160,2026-11-19 23:24:59
+L03569,Torres Roofing Ltd.,Home Services,6395 Ranch Rd,El Paso,TX,(214) 555-9332,2026-11-19 23:24:59
+L01209,Webb & Garcia Insurance Agency & Sons,Professional,332 Commerce St,Dallas,TX,(512) 555-5788,2026-11-19 23:24:59
+L03130,Iron Gate Insurance Agency LLC,Professional,6323 Lamar Blvd,Austin,TX,(512) 555-2084,2026-11-19 23:24:59
+L02445,Grant & Reyes Logistics LLC,Business Services,3601 Ranch Rd,Austin,TX,(713) 555-7346,2026-11-19 23:24:59
+L01769,Santos & Carter Tire & Lube & Sons,Automotive,9448 Ranch Rd,Round Rock,TX,(817) 555-7894,2026-11-19 23:24:59
+L02689,Santos & Webb Plumbing Ltd.,Home Services,9896 Main St,Lubbock,TX,(512) 555-3407,2026-11-19 23:24:59
+L04433,Vargas Landscaping Co.,Home Services,7053 Elm St,San Antonio,TX,(512) 555-8682,2026-11-19 23:24:59
+L03717,Walsh Dental Care Inc.,Health,9014 Commerce St,Round Rock,TX,(817) 555-0650,2026-11-19 23:24:59
+L02280,Quinn & Whitaker Roofing,Home Services,7404 Market St,Austin,TX,(214) 555-1986,2026-11-19 23:24:59
+L00693,Ramirez & Ortiz Consulting Group,Professional,7513 Bluff Ln,Arlington,TX,(512) 555-9886,2026-11-19 23:24:59
+L00931,Coleman Insurance Agency Ltd.,Professional,6911 Pecan Dr,Dallas,TX,(713) 555-8295,2026-11-19 23:24:59
+L04826,Sloan & Fischer Landscaping Ltd.,Home Services,6024 Market St,Round Rock,TX,(817) 555-0057,2026-11-19 23:24:59
+L03586,Abbott & Kim Printing LLC,Business Services,8992 Pecan Dr,Houston,TX,(817) 555-0131,2026-11-19 23:24:59
+L00503,Garcia IT Solutions Group,Business Services,4711 Cypress Way,Corpus Christi,TX,(713) 555-0228,2026-11-19 23:24:59
+L04116,Liberty Pet Grooming,Lifestyle,2912 Oak Ave,Houston,TX,(915) 555-1782,2026-11-19 23:24:59
+L04791,Lambert & Zamora Staffing,Business Services,1024 Pecan Dr,Arlington,TX,(210) 555-7523,2026-11-19 23:24:59
+L03120,Hayes Pet Grooming Co.,Lifestyle,8159 Commerce St,Fort Worth,TX,(214) 555-3859,2026-11-19 23:24:59
+L03762,Garcia Fitness Co.,Lifestyle,5168 Market St,Fort Worth,TX,(915) 555-8270,2026-11-19 23:24:59
+L02039,Shah & Gibson Plumbing & Sons,Home Services,726 Bluff Ln,Corpus Christi,TX,(214) 555-0819,2026-11-19 23:24:59
+L01542,Jensen Photography Ltd.,Lifestyle,7969 Elm St,Plano,TX,(210) 555-0128,2026-11-19 23:24:59
+L00041,Lambert Insurance Agency LLC,Professional,1841 Elm St,Houston,TX,(214) 555-3245,2026-11-19 23:24:59
+L01854,Pioneer Electric LLC,Home Services,1003 Bluff Ln,Austin,TX,(512) 555-6303,2026-11-19 23:24:59
+L02199,Sunrise Printing Ltd.,Business Services,1370 Lamar Blvd,Round Rock,TX,(713) 555-9860,2026-11-19 23:24:59
+L02915,Harbor Physical Therapy Ltd.,Health,8389 Commerce St,Fort Worth,TX,(817) 555-1508,2026-11-19 23:24:59
+L02496,Tanaka & Ramirez Fitness & Sons,Lifestyle,3916 Main St,San Antonio,TX,(713) 555-2182,2026-11-19 23:24:59
+L01983,Midtown Bakery Corp.,Food,3822 Oak Ave,Houston,TX,(214) 555-0810,2026-11-19 23:24:59
+L02696,Hayes & Whitaker Fitness,Lifestyle,3321 Bluff Ln,Corpus Christi,TX,(210) 555-5596,2026-11-19 23:24:59
+L04497,Tanaka & Lambert Consulting Group,Professional,9208 Oak Ave,San Antonio,TX,(210) 555-8833,2026-11-19 23:24:59
+L02776,Dawson Bakery & Sons,Food,4884 Mesa Rd,Round Rock,TX,(512) 555-1255,2026-11-19 23:24:59
+L00057,Castillo & Mendez Tire & Lube,Automotive,3431 Oak Ave,San Antonio,TX,(512) 555-5244,2026-11-19 23:24:59
+L02744,Lambert & Yoder Insurance Agency,Professional,8526 Mesa Rd,Corpus Christi,TX,(713) 555-8454,2026-11-19 23:24:59
+L03158,Coastal Insurance Agency Inc.,Professional,7155 Oak Ave,Fort Worth,TX,(713) 555-6806,2026-11-19 23:24:59
+L03224,Ellis & Sloan Law Group Corp.,Professional,4135 Oak Ave,El Paso,TX,(210) 555-9417,2026-11-19 23:24:59
+L01777,Walsh Catering Inc.,Food,3955 Lamar Blvd,Dallas,TX,(210) 555-3903,2026-11-19 23:24:59
+L02562,Ramirez Accounting Inc.,Professional,2450 Lamar Blvd,Lubbock,TX,(214) 555-7105,2026-11-19 23:24:59
+L01501,Vance & Abbott Grill Corp.,Food,8710 Commerce St,Round Rock,TX,(512) 555-1416,2026-11-19 23:24:59
+L03190,Coleman Consulting & Sons,Professional,3000 Cypress Way,Lubbock,TX,(817) 555-6527,2026-11-19 23:24:59
+L00019,Park Pest Control Group,Home Services,7436 Lamar Blvd,Houston,TX,(512) 555-8768,2026-11-19 23:24:59
+L02595,Marsh & Barnes Landscaping & Sons,Home Services,6873 Commerce St,Lubbock,TX,(210) 555-5691,2026-11-19 23:24:59
+L02869,Bennett & Novak Bakery Co.,Food,2530 Ranch Rd,Arlington,TX,(713) 555-3648,2026-11-19 23:24:59
+L03475,Vargas & Vance Staffing & Sons,Business Services,4515 Commerce St,Fort Worth,TX,(915) 555-7334,2026-11-19 23:24:59
+L02113,Tanaka & Santos IT Solutions,Business Services,8578 Market St,Round Rock,TX,(214) 555-4940,2026-11-19 23:24:59
+L00752,Fischer & Baker Plumbing Ltd.,Home Services,305 Congress Ave,Corpus Christi,TX,(214) 555-7514,2026-11-19 23:24:59
+L00031,Hayes & Patel Printing & Sons,Business Services,4425 Pecan Dr,San Antonio,TX,(214) 555-1777,2026-11-19 23:24:59
+L00441,Lambert Family Clinic Inc.,Health,6245 Commerce St,Houston,TX,(713) 555-2804,2026-11-19 23:24:59
+L01512,Midtown Roofing LLC,Home Services,4297 Commerce St,Lubbock,TX,(915) 555-4615,2026-11-19 23:24:59
+L02096,Tanaka & Yoder Logistics LLC,Business Services,7007 Commerce St,Arlington,TX,(210) 555-0068,2026-11-19 23:24:59
+L01112,Jensen Pet Grooming Co.,Lifestyle,7463 Pecan Dr,El Paso,TX,(512) 555-8012,2026-11-19 23:24:59
+L01293,Zamora Pest Control Corp.,Home Services,4308 Pecan Dr,Austin,TX,(512) 555-9785,2026-11-19 23:24:59
+L04226,Mendez Plumbing Co.,Home Services,9582 Commerce St,Plano,TX,(915) 555-0335,2026-11-19 23:24:59
+L00568,Sloan & Novak Landscaping LLC,Home Services,6231 Main St,Austin,TX,(817) 555-3545,2026-11-19 23:24:59
+L00003,Summit Staffing,Business Services,3812 Lamar Blvd,Corpus Christi,TX,(214) 555-0923,2026-11-19 23:24:59
+L03315,Mendez & Santos Accounting Group,Professional,5685 Congress Ave,Waco,TX,(915) 555-7615,2026-11-19 23:24:59
+L01119,Riverbend Heating & Air Inc.,Home Services,9107 Oak Ave,San Antonio,TX,(214) 555-8510,2026-11-19 23:24:59
+L03390,Coleman & Hayes Family Clinic & Sons,Health,3284 Congress Ave,Fort Worth,TX,(512) 555-0857,2026-11-19 23:24:59
+L02482,Jensen & Delgado Photography & Sons,Lifestyle,4178 Elm St,Waco,TX,(915) 555-8002,2026-11-19 23:24:59
+L03575,Webb & Tanaka Pharmacy,Health,8582 Pecan Dr,Arlington,TX,(214) 555-8136,2026-11-19 23:24:59
+L04563,Brooks Tire & Lube Corp.,Automotive,2684 Congress Ave,San Antonio,TX,(713) 555-3059,2026-11-19 23:24:59
+L02550,Lambert & Dawson Consulting Co.,Professional,7818 Commerce St,Corpus Christi,TX,(512) 555-4722,2026-11-19 23:24:59
+L01231,Fischer & Holt Family Clinic Group,Health,5671 Commerce St,Lubbock,TX,(214) 555-6570,2026-11-19 23:24:59
+L02298,Hayes & Alvarez Fitness Group,Lifestyle,4932 Mesa Rd,Houston,TX,(817) 555-2035,2026-11-19 23:24:59
+L02206,Abbott Electric,Home Services,1625 Bluff Ln,Plano,TX,(210) 555-8356,2026-11-19 23:24:59
+L04318,Yoder & Garcia Pest Control & Sons,Home Services,319 Commerce St,Plano,TX,(210) 555-5454,2026-11-19 23:24:59
+L04614,Ibarra & Torres Grill Inc.,Food,7293 Bluff Ln,Houston,TX,(713) 555-2228,2026-11-19 23:24:59
+L03705,Lopez Family Clinic Co.,Health,6551 Elm St,Corpus Christi,TX,(915) 555-6134,2026-11-19 23:24:59
+L00007,Chen & Dawson Auto Repair Corp.,Automotive,3547 Oak Ave,Arlington,TX,(817) 555-1262,2026-11-19 23:24:59
+L00079,Reyes & Foster Insurance Agency Corp.,Professional,4323 Ranch Rd,San Antonio,TX,(512) 555-0044,2026-11-19 23:24:59
+L04281,Fischer & Whitaker Grill & Sons,Food,6540 Lamar Blvd,Houston,TX,(817) 555-1499,2026-11-19 23:24:59
+L04743,Lopez Bakery LLC,Food,5139 Lamar Blvd,El Paso,TX,(915) 555-1127,2026-11-19 23:24:59
+L02639,Cruz Pet Grooming,Lifestyle,8033 Cypress Way,Plano,TX,(915) 555-7593,2026-11-19 23:24:59
+L00445,Yoder Logistics Ltd.,Business Services,7833 Cypress Way,Round Rock,TX,(214) 555-6697,2026-11-19 23:24:59
+L03639,Park & Holt Grill LLC,Food,649 Oak Ave,San Antonio,TX,(915) 555-2450,2026-11-19 23:24:59
+L02033,Sloan & Holt Coffee Roasters Corp.,Food,9591 Mesa Rd,Corpus Christi,TX,(210) 555-2256,2026-11-19 23:24:59
+L02798,Mendez Pest Control & Sons,Home Services,5945 Ranch Rd,Dallas,TX,(713) 555-4034,2026-11-19 23:24:59
+L01874,Ellis & Alvarez Physical Therapy,Health,7786 Commerce St,San Antonio,TX,(214) 555-6960,2026-11-19 23:24:59
+L00516,Foster Landscaping LLC,Home Services,8194 Main St,Dallas,TX,(210) 555-7185,2026-11-19 23:24:59
+L03147,Ortiz & Kim Physical Therapy Inc.,Health,7666 Pecan Dr,Dallas,TX,(214) 555-6755,2026-11-19 23:24:59
+L00025,Ibarra Grill Group,Food,8575 Commerce St,Lubbock,TX,(210) 555-1584,2026-11-19 23:24:59
+L02377,Walsh Tire & Lube Ltd.,Automotive,444 Cypress Way,Arlington,TX,(214) 555-3018,2026-11-19 23:24:59
+L00055,Park Printing & Sons,Business Services,2107 Commerce St,Corpus Christi,TX,(915) 555-5496,2026-11-19 23:24:59
+L00771,Garcia & Webb Fitness & Sons,Lifestyle,9667 Commerce St,Round Rock,TX,(713) 555-6342,2026-11-19 23:24:59
+L04965,Patel & Kim Physical Therapy Corp.,Health,7006 Congress Ave,Dallas,TX,(713) 555-0950,2026-11-19 23:24:59
+L02437,Barnes & Vargas Logistics Group,Business Services,952 Bluff Ln,Arlington,TX,(214) 555-0872,2026-11-19 23:24:59
+L02673,Zamora & Fischer Cleaners LLC,Lifestyle,861 Ranch Rd,Dallas,TX,(915) 555-6909,2026-11-19 23:24:59
+L03596,Lopez & Vance Insurance Agency Inc.,Professional,4756 Oak Ave,El Paso,TX,(713) 555-7875,2026-11-19 23:24:59
+L00524,Ramirez & Barnes Electric Co.,Home Services,598 Commerce St,Lubbock,TX,(210) 555-2570,2026-11-19 23:24:59
+L04289,Grant & Zamora Bakery & Sons,Food,7514 Cypress Way,Arlington,TX,(817) 555-6819,2026-11-19 23:24:59
+L02332,Patel & Park Family Clinic & Sons,Health,4190 Lamar Blvd,Waco,TX,(713) 555-4984,2026-11-19 23:24:59
+L04855,Patel Landscaping,Home Services,4353 Lamar Blvd,San Antonio,TX,(210) 555-8695,2026-11-19 23:24:59
+L01858,Chen Landscaping Ltd.,Home Services,1815 Congress Ave,Arlington,TX,(214) 555-1973,2026-11-19 23:24:59
+L01069,Fischer & Lambert Dental Care Corp.,Health,6473 Cypress Way,Plano,TX,(915) 555-2858,2026-11-19 23:24:59
+L00069,Baker & Reyes IT Solutions Inc.,Business Services,5123 Cypress Way,San Antonio,TX,(214) 555-8191,2026-11-19 23:24:59
+L04945,Vargas & Delgado Catering Inc.,Food,3447 Ranch Rd,Fort Worth,TX,(817) 555-5021,2026-11-19 23:24:59
+L03146,Jensen Physical Therapy Co.,Health,1797 Elm St,Plano,TX,(915) 555-7587,2026-11-19 23:24:59
+L04858,Cruz & Carter Auto Repair LLC,Automotive,8218 Ranch Rd,Houston,TX,(210) 555-8941,2026-11-19 23:24:59
+L02051,Kim & Abbott Pet Grooming Group,Lifestyle,2031 Congress Ave,Round Rock,TX,(512) 555-6096,2026-11-19 23:24:59
+L00059,Foster & Holt Fitness,Lifestyle,6409 Mesa Rd,Houston,TX,(210) 555-7821,2026-11-19 23:24:59
+L04287,Northside Tire & Lube Inc.,Automotive,6711 Elm St,Arlington,TX,(214) 555-8632,2026-11-19 23:24:59
+L02414,Ellis & Reyes Pest Control Group,Home Services,6708 Main St,Fort Worth,TX,(817) 555-3724,2026-11-19 23:24:59
+L00453,Brooks & Rhodes Grill Corp.,Food,1345 Elm St,Fort Worth,TX,(210) 555-9273,2026-11-19 23:24:59
+L00502,Nash Staffing Group,Business Services,6753 Mesa Rd,Fort Worth,TX,(214) 555-9734,2026-11-19 23:24:59
+L01988,Chen & Yoder Family Clinic Co.,Health,7305 Market St,Dallas,TX,(915) 555-8047,2026-11-19 23:24:59
+L04544,Gibson Pharmacy Group,Health,9256 Elm St,Lubbock,TX,(713) 555-5125,2026-11-19 23:24:59
+L00390,Foster Physical Therapy,Health,843 Elm St,San Antonio,TX,(817) 555-2830,2026-11-19 23:24:59
+L04147,Mendez & Ortiz Landscaping Corp.,Home Services,8241 Mesa Rd,Austin,TX,(214) 555-3174,2026-11-19 23:24:59
+L02988,Nash Family Clinic Ltd.,Health,9227 Oak Ave,Austin,TX,(210) 555-3348,2026-11-19 23:24:59
+L01236,Riverbend IT Solutions,Business Services,104 Cypress Way,Round Rock,TX,(210) 555-6524,2026-11-19 23:24:59
+L02488,Vargas Electric LLC,Home Services,9921 Elm St,Lubbock,TX,(210) 555-2116,2026-11-19 23:24:59
+L02146,Gibson Coffee Roasters Corp.,Food,7219 Oak Ave,Houston,TX,(512) 555-6955,2026-11-19 23:24:59
+L01348,Lopez & Ortiz Printing Ltd.,Business Services,3618 Mesa Rd,Round Rock,TX,(214) 555-2976,2026-11-19 23:24:59
+L03109,Keller & Sloan Catering Ltd.,Food,6575 Oak Ave,Austin,TX,(210) 555-9109,2026-11-19 23:24:59
+L02036,Gibson & Chen Dental Care Ltd.,Health,6052 Commerce St,Dallas,TX,(214) 555-6042,2026-11-19 23:24:59
+L03251,Novak Accounting Ltd.,Professional,9847 Mesa Rd,Arlington,TX,(713) 555-0930,2026-11-19 23:24:59
+L03861,Park & Cruz Dental Care & Sons,Health,6628 Market St,Fort Worth,TX,(915) 555-5306,2026-11-19 23:24:59
+L00039,Foster & Lopez Grill,Food,9865 Market St,El Paso,TX,(214) 555-1184,2026-11-19 23:24:59
+L02643,Baker IT Solutions Co.,Business Services,7773 Commerce St,Round Rock,TX,(214) 555-1199,2026-11-19 23:24:59
+L00973,Hayes Auto Repair LLC,Automotive,1366 Cypress Way,Dallas,TX,(915) 555-8924,2026-11-19 23:24:59
+L03822,Webb & Holt Family Clinic Corp.,Health,8397 Market St,Houston,TX,(817) 555-3169,2026-11-19 23:24:59
+L02003,Novak Logistics LLC,Business Services,6493 Ranch Rd,Arlington,TX,(214) 555-1758,2026-11-19 23:24:59
+L03882,Iron Gate Fitness & Sons,Lifestyle,5970 Market St,Dallas,TX,(915) 555-4476,2026-11-19 23:24:59
+L02964,Brooks & Vance Grill LLC,Food,1409 Pecan Dr,Round Rock,TX,(210) 555-3923,2026-11-19 23:24:59
+L00714,Barnes Plumbing,Home Services,447 Pecan Dr,Dallas,TX,(915) 555-4845,2026-11-19 23:24:59
+L04747,Torres & Coleman Logistics LLC,Business Services,4219 Oak Ave,Austin,TX,(915) 555-9572,2026-11-19 23:24:59
+L01824,Lone Star Family Clinic Group,Health,2355 Market St,Round Rock,TX,(713) 555-4893,2026-11-19 23:24:59
+L00829,Keller Pest Control,Home Services,3892 Pecan Dr,Dallas,TX,(512) 555-1500,2026-11-19 23:24:59
+L02842,Canyon Staffing Group,Business Services,7431 Ranch Rd,Corpus Christi,TX,(713) 555-0974,2026-11-19 23:24:59
+L04842,Cruz & Torres Catering LLC,Food,741 Market St,Arlington,TX,(817) 555-5954,2026-11-19 23:24:59
+L01903,Chen & Gibson Pharmacy,Health,2450 Cypress Way,Waco,TX,(512) 555-1355,2026-11-19 23:24:59
+L01302,Ramirez Pest Control Group,Home Services,4243 Congress Ave,El Paso,TX,(214) 555-3056,2026-11-19 23:24:59
+L01271,Ortiz Accounting Ltd.,Professional,8474 Commerce St,Houston,TX,(713) 555-4702,2026-11-19 23:24:59
+L01922,Riverbend Accounting Ltd.,Professional,5851 Mesa Rd,Arlington,TX,(915) 555-2871,2026-11-19 23:24:59
+L01636,Northside Realty LLC,Professional,7943 Market St,Round Rock,TX,(512) 555-4302,2026-11-19 23:24:59
+L01260,Dawson & Coleman Cleaners & Sons,Lifestyle,1589 Mesa Rd,Arlington,TX,(713) 555-2895,2026-11-19 23:24:59
+L03864,Quinn Cleaners Inc.,Lifestyle,3482 Bluff Ln,Round Rock,TX,(512) 555-4702,2026-11-19 23:24:59
+L02920,Park & Chen Photography LLC,Lifestyle,3721 Lamar Blvd,San Antonio,TX,(817) 555-7188,2026-11-19 23:24:59
+L04528,Ortiz & Nash Insurance Agency & Sons,Professional,882 Pecan Dr,Dallas,TX,(713) 555-0463,2026-11-19 23:24:59
+L00744,Golden Collision Center Ltd.,Automotive,5464 Oak Ave,Plano,TX,(915) 555-8345,2026-11-19 23:24:59
+L04283,Iron Gate Cleaners & Sons,Lifestyle,8085 Congress Ave,Corpus Christi,TX,(512) 555-4571,2026-11-19 23:24:59
+L02594,Mendez & Patel Heating & Air,Home Services,1655 Oak Ave,Corpus Christi,TX,(210) 555-3935,2026-11-19 23:24:59
+L02115,Castillo & Barnes Pest Control Group,Home Services,5587 Market St,Dallas,TX,(210) 555-1071,2026-11-19 23:24:59
+L00053,Cruz & Ortiz Grill Corp.,Food,1823 Congress Ave,Lubbock,TX,(214) 555-4149,2026-11-19 23:24:59
+L03720,Tanaka & Bennett Pest Control Inc.,Home Services,1947 Market St,El Paso,TX,(512) 555-2402,2026-11-19 23:24:59
+L04267,Dawson & Fischer Grill LLC,Food,1614 Commerce St,Houston,TX,(915) 555-0986,2026-11-19 23:24:59
+L04400,Kim & Vance IT Solutions & Sons,Business Services,8394 Cypress Way,San Antonio,TX,(915) 555-0826,2026-11-19 23:24:59
+L03405,Ortiz Tire & Lube Corp.,Automotive,6149 Ranch Rd,Arlington,TX,(214) 555-1448,2026-11-19 23:24:59
+L00639,Lakeside Staffing & Sons,Business Services,6755 Mesa Rd,Arlington,TX,(512) 555-9608,2026-11-19 23:24:59
+L03207,Webb & Morgan Physical Therapy Ltd.,Health,1381 Main St,Corpus Christi,TX,(214) 555-4341,2026-11-19 23:24:59
+L04730,Garcia & Delgado Landscaping Co.,Home Services,1801 Market St,San Antonio,TX,(817) 555-3869,2026-11-19 23:24:59
+L04768,Tanaka Tire & Lube,Automotive,4424 Pecan Dr,Fort Worth,TX,(512) 555-5804,2026-11-19 23:24:59
+L03108,Metro Logistics Ltd.,Business Services,9006 Congress Ave,Plano,TX,(214) 555-6670,2026-11-19 23:24:59
+L04562,Lambert & Foster Cleaners & Sons,Lifestyle,819 Cypress Way,Houston,TX,(512) 555-1101,2026-11-19 23:24:59
+L03268,Metro Heating & Air,Home Services,617 Ranch Rd,Houston,TX,(512) 555-1072,2026-11-19 23:24:59
+L01136,Lambert & Walsh Cleaners Group,Lifestyle,3143 Lamar Blvd,Fort Worth,TX,(915) 555-8971,2026-11-19 23:24:59
+L02873,Jensen Heating & Air & Sons,Home Services,4236 Ranch Rd,Waco,TX,(817) 555-3740,2026-11-19 23:24:59
+L01700,Vance Coffee Roasters,Food,911 Main St,Plano,TX,(214) 555-8862,2026-11-19 23:24:59
+L01328,Grant Heating & Air Co.,Home Services,7937 Congress Ave,Plano,TX,(512) 555-9620,2026-11-19 23:24:59
+L03806,Lambert & Bennett Realty Corp.,Professional,1672 Cypress Way,Austin,TX,(512) 555-1346,2026-11-19 23:24:59
+L04415,Holt & Grant Physical Therapy Co.,Health,9825 Mesa Rd,Fort Worth,TX,(915) 555-8338,2026-11-19 23:24:59
+L04326,Ramirez & Park Printing LLC,Business Services,2214 Cypress Way,Plano,TX,(210) 555-3051,2026-11-19 23:24:59
+L02406,Novak Landscaping,Home Services,2171 Market St,Waco,TX,(512) 555-8347,2026-11-19 23:24:59
+L03763,Grant & Morgan Collision Center,Automotive,9362 Pecan Dr,Round Rock,TX,(210) 555-0626,2026-11-19 23:24:59
+L00023,Vance & Lambert Tire & Lube Corp.,Automotive,1959 Congress Ave,Dallas,TX,(713) 555-7566,2026-11-19 23:24:59
+L01865,Bluebonnet Logistics,Business Services,4644 Ranch Rd,Fort Worth,TX,(713) 555-5831,2026-11-19 23:24:59
+L03091,Grant Staffing Corp.,Business Services,9012 Bluff Ln,Dallas,TX,(915) 555-7525,2026-11-19 23:24:59
+L02666,Mendez & Shah Cleaners & Sons,Lifestyle,9928 Congress Ave,Lubbock,TX,(214) 555-5620,2026-11-19 23:24:59
+L01193,Delgado & Ellis Tire & Lube Group,Automotive,5287 Pecan Dr,Dallas,TX,(512) 555-6728,2026-11-19 23:24:59
+L03893,Vargas Realty LLC,Professional,4303 Main St,Plano,TX,(915) 555-4824,2026-11-19 23:24:59
+L00047,Bennett & Chen Pet Grooming LLC,Lifestyle,4636 Congress Ave,Lubbock,TX,(512) 555-6681,2026-11-19 23:24:59
+L04832,Alvarez Auto Repair Group,Automotive,9788 Ranch Rd,Plano,TX,(214) 555-3436,2026-11-19 23:24:59
+L00760,Nash Auto Repair & Sons,Automotive,9547 Congress Ave,Arlington,TX,(210) 555-6792,2026-11-19 23:24:59
+L02888,Park & Cruz Landscaping LLC,Home Services,6358 Ranch Rd,Austin,TX,(210) 555-2146,2026-11-19 23:24:59
+L02122,Quinn & Ramirez Physical Therapy Ltd.,Health,7601 Pecan Dr,Houston,TX,(915) 555-0595,2026-11-19 23:24:59
+L00413,Tanaka & Park Staffing Ltd.,Business Services,9352 Bluff Ln,Dallas,TX,(214) 555-5371,2026-11-19 23:24:59
+L01295,Foster Pet Grooming,Lifestyle,5825 Main St,Plano,TX,(512) 555-2949,2026-11-19 23:24:59
+L01131,Yoder & Novak Physical Therapy,Health,4891 Main St,Plano,TX,(214) 555-3288,2026-11-19 23:24:59
+L03037,Lopez & Hayes Collision Center Co.,Automotive,5910 Pecan Dr,Dallas,TX,(817) 555-0766,2026-11-19 23:24:59
+L00075,Hale & Carter Plumbing Co.,Home Services,7725 Oak Ave,Austin,TX,(713) 555-5933,2026-11-19 23:24:59
+L02119,Abbott Printing LLC,Business Services,3086 Market St,Dallas,TX,(214) 555-7371,2026-11-19 23:24:59
+L01993,Cruz & Chen Roofing Ltd.,Home Services,3128 Ranch Rd,Waco,TX,(713) 555-5419,2026-11-19 23:24:59
+L04028,Chen & Foster Electric Co.,Home Services,8026 Bluff Ln,Plano,TX,(210) 555-8094,2026-11-19 23:24:59
+L03976,Yoder & Lambert Electric Co.,Home Services,8271 Main St,Waco,TX,(817) 555-3491,2026-11-19 23:24:59
+L02996,Gibson & Reyes Realty & Sons,Professional,6589 Pecan Dr,Corpus Christi,TX,(512) 555-5560,2026-11-19 23:24:59
+L01392,Lone Star Coffee Roasters Co.,Food,8835 Pecan Dr,El Paso,TX,(512) 555-1759,2026-11-19 23:24:59
+L04111,Whitaker Staffing Inc.,Business Services,7749 Cypress Way,Arlington,TX,(210) 555-0342,2026-11-19 23:24:59
+L01121,Grant Bakery Ltd.,Food,4986 Pecan Dr,Round Rock,TX,(214) 555-0757,2026-11-19 23:24:59
+L04726,Coastal Fitness Ltd.,Lifestyle,8531 Commerce St,Round Rock,TX,(817) 555-0144,2026-11-19 23:24:59
+L00045,Blue Ridge Catering & Sons,Food,3120 Pecan Dr,San Antonio,TX,(214) 555-1503,2026-11-19 23:24:59
+L00504,Iron Gate Bakery Corp.,Food,8807 Market St,Plano,TX,(512) 555-9540,2026-11-19 23:24:59
+L00614,Golden Cleaners LLC,Lifestyle,8908 Lamar Blvd,Lubbock,TX,(210) 555-0413,2026-11-19 23:24:59
+L01409,Novak & Ortiz Family Clinic LLC,Health,6272 Ranch Rd,Dallas,TX,(214) 555-3864,2026-11-19 23:24:59
+L00071,Nash & Whitaker Catering,Food,8745 Congress Ave,Dallas,TX,(713) 555-0954,2026-11-19 23:24:59
+L00622,Premier Fitness LLC,Lifestyle,5857 Oak Ave,Austin,TX,(512) 555-0832,2026-11-19 23:24:59
+L01425,Hale & Vargas Tire & Lube Inc.,Automotive,9678 Main St,Lubbock,TX,(210) 555-2892,2026-11-19 23:24:59
+L04044,Santos Logistics Group,Business Services,5906 Oak Ave,Austin,TX,(214) 555-2674,2026-11-19 23:24:59
+L01681,Alvarez & Rhodes IT Solutions & Sons,Business Services,2083 Commerce St,Houston,TX,(210) 555-9888,2026-11-19 23:24:59
+L02598,Fischer & Mendez Landscaping & Sons,Home Services,7050 Pecan Dr,Arlington,TX,(915) 555-5777,2026-11-19 23:24:59
+L03736,Carter & Baker Catering & Sons,Food,7079 Main St,Plano,TX,(817) 555-9705,2026-11-19 23:24:59
+L01891,Metro Pharmacy Corp.,Health,7953 Commerce St,Lubbock,TX,(817) 555-9459,2026-11-19 23:24:59
+L00001,Holt & Santos Pharmacy Group,Health,9154 Congress Ave,Dallas,TX,(210) 555-3256,2026-11-19 23:24:59
+L04988,Fischer & Hale Fitness Ltd.,Lifestyle,8845 Elm St,Corpus Christi,TX,(210) 555-1060,2026-11-19 23:24:59
+L01071,Hale & Quinn Bakery Inc.,Food,5135 Mesa Rd,Corpus Christi,TX,(915) 555-5119,2026-11-19 23:24:59
+L01639,Lambert Plumbing Inc.,Home Services,4434 Mesa Rd,Houston,TX,(512) 555-8621,2026-11-19 23:24:59
+L02169,Webb Consulting Ltd.,Professional,4891 Cypress Way,Lubbock,TX,(214) 555-3451,2026-11-19 23:24:59
+L04745,Brooks & Foster Photography LLC,Lifestyle,7267 Mesa Rd,Corpus Christi,TX,(512) 555-0011,2026-11-19 23:24:59
+L00600,Hayes & Keller Tire & Lube Group,Automotive,5504 Main St,Waco,TX,(214) 555-0312,2026-11-19 23:24:59
+L00398,Torres & Carter Photography Co.,Lifestyle,853 Commerce St,Austin,TX,(713) 555-2690,2026-11-19 23:24:59
+L00033,Jensen & Sloan Consulting Corp.,Professional,8571 Elm St,Plano,TX,(210) 555-5374,2026-11-19 23:24:59
+L00362,Prairie Tire & Lube & Sons,Automotive,6298 Bluff Ln,El Paso,TX,(915) 555-1807,2026-11-19 23:24:59
+L01339,Sloan Staffing Inc.,Business Services,5452 Lamar Blvd,Dallas,TX,(713) 555-6189,2026-11-19 23:24:59
+L03494,Reyes Collision Center Inc.,Automotive,4691 Pecan Dr,Round Rock,TX,(713) 555-6907,2026-11-19 23:24:59
+L03551,Lopez & Zamora IT Solutions Ltd.,Business Services,8934 Lamar Blvd,San Antonio,TX,(210) 555-3824,2026-11-19 23:24:59
+L04746,Hayes & Rhodes Fitness Ltd.,Lifestyle,1456 Lamar Blvd,Waco,TX,(713) 555-7522,2026-11-19 23:24:59
+L04198,Marsh Catering Corp.,Food,3245 Commerce St,San Antonio,TX,(915) 555-3730,2026-11-19 23:24:59
+L03188,Santos Pest Control & Sons,Home Services,6458 Market St,Plano,TX,(512) 555-6513,2026-11-19 23:24:59
+L03484,Delgado Logistics & Sons,Business Services,4594 Main St,San Antonio,TX,(915) 555-7939,2026-11-19 23:24:59
+L01323,Abbott & Gibson Roofing LLC,Home Services,8142 Bluff Ln,San Antonio,TX,(915) 555-3064,2026-11-19 23:24:59
+L00017,Liberty Law Group Corp.,Professional,7794 Main St,Dallas,TX,(713) 555-4597,2026-11-19 23:24:59
+L02901,Silver Line Photography Group,Lifestyle,6415 Main St,Fort Worth,TX,(817) 555-9853,2026-11-19 23:24:59
+L02640,Foster & Coleman Roofing Co.,Home Services,4255 Main St,Arlington,TX,(713) 555-4083,2026-11-19 23:24:59
+L02886,Kim & Novak Insurance Agency Co.,Professional,4403 Main St,Round Rock,TX,(713) 555-2334,2026-11-19 23:24:59
+L03107,Lopez & Delgado Family Clinic & Sons,Health,9110 Lamar Blvd,Dallas,TX,(713) 555-3284,2026-11-19 23:24:59
+L03409,Walsh Accounting & Sons,Professional,7304 Lamar Blvd,Dallas,TX,(817) 555-6045,2026-11-19 23:24:59
+L01233,Foster & Baker Dental Care Inc.,Health,7254 Bluff Ln,Round Rock,TX,(214) 555-8902,2026-11-19 23:24:59
+L01059,Tanaka & Alvarez Dental Care Corp.,Health,992 Mesa Rd,Corpus Christi,TX,(713) 555-4927,2026-11-19 23:24:59
+L00063,Dawson Landscaping Corp.,Home Services,5205 Elm St,Houston,TX,(210) 555-7377,2026-11-19 23:24:59
+L00544,Zamora & Sloan Collision Center Ltd.,Automotive,2043 Lamar Blvd,Houston,TX,(713) 555-7866,2026-11-19 23:24:59
+L04785,Mendez Roofing Corp.,Home Services,5894 Cypress Way,Round Rock,TX,(512) 555-9147,2026-11-19 23:24:59
+L02722,Patel & Park Heating & Air Ltd.,Home Services,171 Cypress Way,Houston,TX,(817) 555-4956,2026-11-19 23:24:59
+L00489,Baker Cleaners & Sons,Lifestyle,7285 Elm St,Waco,TX,(817) 555-9726,2026-11-19 23:24:59
+L03004,Coleman & Bennett Physical Therapy LLC,Health,5291 Lamar Blvd,Corpus Christi,TX,(210) 555-3125,2026-11-19 23:24:59
+L03383,Rhodes & Carter Physical Therapy,Health,2757 Cypress Way,Austin,TX,(817) 555-2646,2026-11-19 23:24:59
+L04840,Cruz & Sloan Realty Co.,Professional,7251 Commerce St,Dallas,TX,(512) 555-6166,2026-11-19 23:24:59
+L03982,Hale & Barnes Pet Grooming Ltd.,Lifestyle,3558 Elm St,Waco,TX,(817) 555-2786,2026-11-19 23:24:59
+L01485,Santos & Sloan Realty Corp.,Professional,4551 Elm St,Houston,TX,(214) 555-1622,2026-11-19 23:24:59
+L04428,Hayes & Lopez Staffing,Business Services,4382 Market St,Waco,TX,(214) 555-8624,2026-11-19 23:24:59
+L04485,Garcia Plumbing & Sons,Home Services,1226 Pecan Dr,Round Rock,TX,(915) 555-6610,2026-11-19 23:24:59
+L00420,Garcia & Torres Coffee Roasters Group,Food,9743 Commerce St,Austin,TX,(512) 555-0391,2026-11-19 23:24:59
+L01220,Kim IT Solutions Group,Business Services,9038 Lamar Blvd,El Paso,TX,(210) 555-8744,2026-11-19 23:24:59
+L02825,Novak & Ortiz Coffee Roasters & Sons,Food,8052 Congress Ave,Fort Worth,TX,(915) 555-7442,2026-11-19 23:24:59
+L01023,Novak & Holt Consulting LLC,Professional,5955 Commerce St,El Paso,TX,(512) 555-6228,2026-11-19 23:24:59
+L04479,Shah & Coleman Plumbing,Home Services,1913 Elm St,Plano,TX,(512) 555-1110,2026-11-19 23:24:59
+L00005,Silver Line Auto Repair,Automotive,333 Lamar Blvd,Plano,TX,(817) 555-8982,2026-11-19 23:24:59
+L03324,Summit Pest Control LLC,Home Services,6270 Main St,Corpus Christi,TX,(713) 555-1270,2026-11-19 23:24:59
+L02030,Abbott Fitness Ltd.,Lifestyle,2494 Mesa Rd,Waco,TX,(210) 555-1288,2026-11-19 23:24:59
+L02714,Canyon Consulting Corp.,Professional,3730 Elm St,Plano,TX,(512) 555-3110,2026-11-19 23:24:59
+L02449,Rhodes Insurance Agency Group,Professional,3786 Pecan Dr,Waco,TX,(214) 555-3867,2026-11-19 23:24:59
+L01657,Sloan & Yoder Coffee Roasters Corp.,Food,1074 Commerce St,Waco,TX,(512) 555-7014,2026-11-19 23:24:59
+L03266,Bright Grill LLC,Food,8946 Commerce St,Arlington,TX,(915) 555-6902,2026-11-19 23:24:59
+L04623,Patel & Sloan Dental Care Inc.,Health,9174 Ranch Rd,Corpus Christi,TX,(214) 555-3834,2026-11-19 23:24:59
+L01062,Hayes & Santos Insurance Agency Corp.,Professional,4152 Pecan Dr,Dallas,TX,(817) 555-8450,2026-11-19 23:24:59
+L01009,Tanaka & Bennett Landscaping Corp.,Home Services,4967 Cypress Way,Corpus Christi,TX,(817) 555-7741,2026-11-19 23:24:59
+L04075,Delgado & Ortiz Pharmacy & Sons,Health,3883 Cypress Way,Houston,TX,(210) 555-8588,2026-11-19 23:24:59
+L00687,Reyes & Cruz IT Solutions Ltd.,Business Services,2988 Ranch Rd,San Antonio,TX,(512) 555-4066,2026-11-19 23:24:59
+L02047,Nash & Ramirez Bakery Co.,Food,5917 Lamar Blvd,Lubbock,TX,(210) 555-8248,2026-11-19 23:24:59
+L04610,Northside Fitness Co.,Lifestyle,3118 Ranch Rd,Lubbock,TX,(214) 555-4575,2026-11-19 23:24:59
+L01164,Ellis Catering,Food,9610 Main St,Round Rock,TX,(210) 555-0566,2026-11-19 23:24:59
+L00009,Zamora & Foster Tire & Lube LLC,Automotive,1432 Lamar Blvd,Lubbock,TX,(214) 555-2505,2026-11-19 23:24:59
+L03962,Rhodes Consulting Co.,Professional,4908 Main St,Arlington,TX,(214) 555-2916,2026-11-19 23:24:59
+L04536,Carter & Abbott Insurance Agency LLC,Professional,4035 Mesa Rd,Dallas,TX,(817) 555-1294,2026-11-19 23:24:59
+L03648,Quinn Auto Repair Group,Automotive,6369 Bluff Ln,Arlington,TX,(713) 555-3624,2026-11-19 23:24:59
+L04539,Whitaker & Marsh Pest Control & Sons,Home Services,3915 Cypress Way,Houston,TX,(512) 555-0651,2026-11-19 23:24:59
+L04532,Kim & Nash Fitness Inc.,Lifestyle,5496 Pecan Dr,Round Rock,TX,(713) 555-3242,2026-11-19 23:24:59
+L03781,Cedar Park Catering Ltd.,Food,7198 Pecan Dr,Dallas,TX,(512) 555-7093,2026-11-19 23:24:59
+L01725,Abbott Cleaners,Lifestyle,5533 Oak Ave,Waco,TX,(214) 555-8119,2026-11-19 23:24:59
+L04158,Lopez & Castillo Printing Co.,Business Services,9749 Ranch Rd,Arlington,TX,(210) 555-9861,2026-11-19 23:24:59
+L00061,Silver Line Fitness Inc.,Lifestyle,3990 Bluff Ln,Arlington,TX,(512) 555-4821,2026-11-19 23:24:59
+L01556,Delgado & Coleman Family Clinic Co.,Health,2717 Market St,San Antonio,TX,(210) 555-1898,2026-11-19 23:24:59
+L00077,Torres & Gibson Electric Corp.,Home Services,4222 Ranch Rd,Lubbock,TX,(915) 555-8301,2026-11-19 23:24:59
+L03002,Novak Photography Corp.,Lifestyle,6663 Oak Ave,Waco,TX,(915) 555-9871,2026-11-19 23:24:59
+L04653,Liberty Dental Care Co.,Health,1501 Ranch Rd,Round Rock,TX,(915) 555-4879,2026-11-19 23:24:59
+L01305,Morgan Grill & Sons,Food,2029 Ranch Rd,Dallas,TX,(210) 555-6274,2026-11-19 23:24:59
+L00327,Ramirez Staffing Corp.,Business Services,9336 Main St,Corpus Christi,TX,(817) 555-4927,2026-11-19 23:24:59
+L00013,Webb & Dawson Dental Care Corp.,Health,7123 Bluff Ln,Plano,TX,(915) 555-8746,2026-11-19 23:24:59
+L01705,Morgan & Abbott Cleaners Group,Lifestyle,2846 Lamar Blvd,Corpus Christi,TX,(713) 555-6721,2026-11-19 23:24:59
+L01270,Vance Law Group & Sons,Professional,8971 Commerce St,El Paso,TX,(210) 555-2844,2026-11-19 23:24:59
+L02912,Frontier Tire & Lube Ltd.,Automotive,1292 Ranch Rd,San Antonio,TX,(713) 555-0840,2026-11-19 23:24:59
+L02001,Abbott Grill Inc.,Food,3323 Commerce St,San Antonio,TX,(512) 555-8538,2026-11-19 23:24:59
+L00051,Carter & Foster Physical Therapy & Sons,Health,4715 Congress Ave,Fort Worth,TX,(915) 555-6551,2026-11-19 23:24:59
+L02546,Lambert & Baker Plumbing LLC,Home Services,9447 Main St,Austin,TX,(915) 555-2440,2026-11-19 23:24:59
+L03588,Gibson Photography Group,Lifestyle,5852 Commerce St,El Paso,TX,(713) 555-8957,2026-11-19 23:24:59
+L03018,Walsh & Hayes Collision Center Group,Automotive,9202 Ranch Rd,Corpus Christi,TX,(817) 555-0471,2026-11-19 23:24:59
+L02453,Keystone Staffing & Sons,Business Services,3041 Bluff Ln,Houston,TX,(512) 555-6332,2026-11-19 23:24:59
+L00043,Premier Realty Ltd.,Professional,1615 Lamar Blvd,Arlington,TX,(512) 555-1209,2026-11-19 23:24:59
+L03730,Quinn Photography,Lifestyle,6354 Cypress Way,Houston,TX,(214) 555-1553,2026-11-19 23:24:59
+L02394,Hayes & Vargas Heating & Air & Sons,Home Services,9914 Lamar Blvd,Austin,TX,(817) 555-6126,2026-11-19 23:24:59
+L00035,Walsh & Carter Photography,Lifestyle,4571 Cypress Way,Fort Worth,TX,(214) 555-7300,2026-11-19 23:24:59
+L03277,Fischer & Carter Dental Care & Sons,Health,4134 Main St,Dallas,TX,(713) 555-3882,2026-11-19 23:24:59
+L01418,Grant Fitness & Sons,Lifestyle,9709 Ranch Rd,Waco,TX,(214) 555-2932,2026-11-19 23:24:59
+L00073,Whitaker & Shah Pet Grooming Corp.,Lifestyle,8850 Mesa Rd,Plano,TX,(214) 555-7028,2026-11-19 23:24:59
+L03915,Lopez & Shah Staffing Group,Business Services,3116 Market St,Waco,TX,(817) 555-3241,2026-11-19 23:24:59
+L01308,Novak & Whitaker Fitness Ltd.,Lifestyle,387 Mesa Rd,Austin,TX,(915) 555-1915,2026-11-19 23:24:59
+L03027,Morgan Landscaping & Sons,Home Services,1145 Cypress Way,Lubbock,TX,(512) 555-8005,2026-11-19 23:24:59
+L01894,Riverbend Landscaping Ltd.,Home Services,7261 Main St,Dallas,TX,(214) 555-9805,2026-11-19 23:24:59
+L04376,Coleman & Vargas Consulting Group,Professional,3878 Cypress Way,El Paso,TX,(817) 555-8596,2026-11-19 23:24:59
+L01981,Zamora & Park Auto Repair Inc.,Automotive,790 Lamar Blvd,Lubbock,TX,(210) 555-4774,2026-11-19 23:24:59
+L00904,Webb Auto Repair Corp.,Automotive,4631 Elm St,Austin,TX,(713) 555-0646,2026-11-19 23:24:59
+L02741,Baker & Hayes Consulting & Sons,Professional,5857 Market St,Austin,TX,(214) 555-1073,2026-11-19 23:24:59
+L01144,Cedar Park Photography Co.,Lifestyle,1379 Ranch Rd,Corpus Christi,TX,(214) 555-9392,2026-11-19 23:24:59
+L01768,Morgan & Ortiz Dental Care Ltd.,Health,8260 Market St,Arlington,TX,(817) 555-9723,2026-11-19 23:24:59
+L04622,Kim Coffee Roasters LLC,Food,3395 Cypress Way,Round Rock,TX,(512) 555-7478,2026-11-19 23:24:59
+L04878,Webb & Brooks Logistics Group,Business Services,3611 Main St,Waco,TX,(817) 555-0760,2026-11-19 23:24:59
+L01242,Yoder & Patel Collision Center LLC,Automotive,2243 Elm St,Austin,TX,(713) 555-1700,2026-11-19 23:24:59

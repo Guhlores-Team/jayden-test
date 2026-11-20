@@ -1,0 +1,601 @@
+row,case,expected,listing_id
+1,different formatting,remove,L00500
+2,typo in name,review,L04833
+3,exact name,remove,L00420
+4,exact name,remove,L01242
+5,different formatting,remove,L01158
+6,exact name,remove,L03158
+7,exact name,remove,L02377
+8,typo in name,review,L01225
+9,exact name,remove,L03720
+10,different formatting,remove,L04116
+11,different formatting,remove,L01062
+12,exact name,remove,L00443
+13,typo in name,review,L02020
+14,different formatting,remove,L02414
+15,"same name in two cities, no city given",review,
+16,typo in name,review,L04969
+17,"same name in two cities, no city given",review,
+18,exact name,remove,L02776
+19,exact name,remove,L02496
+20,exact name,remove,L04245
+21,exact name,remove,L01601
+22,typo in name,review,L02455
+23,exact name,remove,L03266
+24,different formatting,remove,L03475
+25,exact name,remove,L00760
+26,exact name,remove,L04610
+27,"same name in two cities, city given",remove,L00017
+28,exact name,remove,L03754
+29,exact name,remove,L02169
+30,not in the directory,not found,
+31,exact name,remove,L04745
+32,not in the directory,not found,
+33,typo in name,review,L03797
+34,exact name,remove,L00986
+35,"same name in two cities, city given",remove,L00007
+36,different formatting,remove,L04922
+37,exact name,remove,L00362
+38,typo in name,review,L00366
+39,typo in name,review,L01050
+40,exact name,remove,L00503
+41,"same name in two cities, no city given",review,
+42,exact name,remove,L01193
+43,not in the directory,not found,
+44,"same name in two cities, city given",remove,L00033
+45,not in the directory,not found,
+46,different formatting,remove,L02673
+47,different formatting,remove,L04768
+48,exact name,remove,L02003
+49,exact name,remove,L01785
+50,exact name,remove,L01613
+51,not in the directory,not found,
+52,exact name,remove,L02964
+53,exact name,remove,L03588
+54,exact name,remove,L03207
+55,exact name,remove,L03328
+56,typo in name,review,L00880
+57,different formatting,remove,L00776
+58,not in the directory,not found,
+59,exact name,remove,L04544
+60,different formatting,remove,L03054
+61,exact name,remove,L04813
+62,"same name in two cities, no city given",review,
+63,exact name,remove,L03816
+64,name matches but city differs,review,
+65,exact name,remove,L01339
+66,exact name,remove,L03893
+67,different formatting,remove,L03540
+68,exact name,remove,L02873
+69,different formatting,remove,L02062
+70,exact name,remove,L01501
+71,different formatting,remove,L00489
+72,typo in name,review,L03640
+73,exact name,remove,L04536
+74,typo in name,review,L01992
+75,exact name,remove,L04163
+76,exact name,remove,L03385
+77,different formatting,remove,L00714
+78,different formatting,remove,L03002
+79,different formatting,remove,L02639
+80,"same name in two cities, no city given",review,
+81,exact name,remove,L02482
+82,"same name in two cities, city given",remove,L00019
+83,different formatting,remove,L01894
+84,"same name in two cities, no city given",review,
+85,different formatting,remove,L04746
+86,typo in name,review,L02954
+87,exact name,remove,L03109
+88,name matches but city differs,review,
+89,exact name,remove,L02251
+90,exact name,remove,L04914
+91,exact name,remove,L00841
+92,name matches but city differs,review,
+93,exact name,remove,L01681
+94,"same name in two cities, no city given",review,
+95,exact name,remove,L00631
+96,different formatting,remove,L00441
+97,different formatting,remove,L03188
+98,exact name,remove,L03383
+99,exact name,remove,L00413
+100,exact name,remove,L03639
+101,different formatting,remove,L04653
+102,exact name,remove,L04968
+103,exact name,remove,L04623
+104,"same name in two cities, city given",remove,L00053
+105,exact name,remove,L02912
+106,exact name,remove,L04278
+107,exact name,remove,L04614
+108,exact name,remove,L03295
+109,exact name,remove,L01233
+110,exact name,remove,L04198
+111,exact name,remove,L01589
+112,name matches but city differs,review,
+113,exact name,remove,L04707
+114,exact name,remove,L04267
+115,exact name,remove,L01236
+116,exact name,remove,L02206
+117,exact name,remove,L01157
+118,exact name,remove,L01983
+119,not in the directory,not found,
+120,exact name,remove,L04415
+121,typo in name,review,L02046
+122,exact name,remove,L04376
+123,different formatting,remove,L04281
+124,typo in name,review,L01662
+125,"same name in two cities, city given",remove,L00003
+126,exact name,remove,L01409
+127,"same name in two cities, no city given",review,
+128,exact name,remove,L03866
+129,different formatting,remove,L02939
+130,"same name in two cities, no city given",review,
+131,different formatting,remove,L00791
+132,exact name,remove,L01189
+133,different formatting,remove,L01705
+134,typo in name,review,L03610
+135,exact name,remove,L04343
+136,exact name,remove,L01328
+137,exact name,remove,L04128
+138,exact name,remove,L01556
+139,exact name,remove,L04791
+140,exact name,remove,L00771
+141,exact name,remove,L03409
+142,different formatting,remove,L01599
+143,exact name,remove,L04826
+144,exact name,remove,L04218
+145,exact name,remove,L01865
+146,exact name,remove,L01144
+147,exact name,remove,L01903
+148,exact name,remove,L00544
+149,exact name,remove,L02068
+150,exact name,remove,L01512
+151,not in the directory,not found,
+152,exact name,remove,L03113
+153,typo in name,review,L01083
+154,different formatting,remove,L03196
+155,name matches but city differs,review,
+156,exact name,remove,L02336
+157,exact name,remove,L01271
+158,different formatting,remove,L04782
+159,exact name,remove,L03770
+160,different formatting,remove,L02332
+161,different formatting,remove,L03405
+162,exact name,remove,L01854
+163,different formatting,remove,L00931
+164,"same name in two cities, no city given",review,
+165,name matches but city differs,review,
+166,exact name,remove,L04840
+167,typo in name,review,L00661
+168,exact name,remove,L03277
+169,"same name in two cities, city given",remove,L00037
+170,exact name,remove,L01231
+171,exact name,remove,L04686
+172,exact name,remove,L02785
+173,typo in name,review,L02272
+174,exact name,remove,L00523
+175,exact name,remove,L02115
+176,exact name,remove,L04730
+177,exact name,remove,L01383
+178,not in the directory,not found,
+179,exact name,remove,L02988
+180,exact name,remove,L01581
+181,exact name,remove,L03190
+182,not in the directory,not found,
+183,exact name,remove,L01777
+184,name matches but city differs,review,
+185,exact name,remove,L01201
+186,"same name in two cities, no city given",review,
+187,exact name,remove,L04747
+188,different formatting,remove,L02488
+189,exact name,remove,L01636
+190,different formatting,remove,L04552
+191,typo in name,review,L03833
+192,typo in name,review,L00664
+193,exact name,remove,L02598
+194,different formatting,remove,L02001
+195,exact name,remove,L02666
+196,not in the directory,not found,
+197,typo in name,review,L04181
+198,"same name in two cities, city given",remove,L00015
+199,exact name,remove,L02643
+200,exact name,remove,L03251
+201,exact name,remove,L03027
+202,not in the directory,not found,
+203,exact name,remove,L02141
+204,name matches but city differs,review,
+205,exact name,remove,L02210
+206,"same name in two cities, city given",remove,L00075
+207,different formatting,remove,L01059
+208,name matches but city differs,review,
+209,different formatting,remove,L00829
+210,exact name,remove,L03461
+211,different formatting,remove,L01293
+212,different formatting,remove,L02920
+213,typo in name,review,L00659
+214,exact name,remove,L01769
+215,different formatting,remove,L01348
+216,different formatting,remove,L01425
+217,exact name,remove,L00867
+218,"same name in two cities, no city given",review,
+219,exact name,remove,L02584
+220,typo in name,review,L02476
+221,"same name in two cities, city given",remove,L00073
+222,exact name,remove,L02051
+223,different formatting,remove,L02915
+224,exact name,remove,L01270
+225,exact name,remove,L00723
+226,different formatting,remove,L02594
+227,exact name,remove,L02640
+228,exact name,remove,L02445
+229,"same name in two cities, no city given",review,
+230,typo in name,review,L04778
+231,exact name,remove,L04318
+232,different formatting,remove,L03268
+233,exact name,remove,L00445
+234,exact name,remove,L02122
+235,exact name,remove,L01542
+236,typo in name,review,L03458
+237,exact name,remove,L04226
+238,exact name,remove,L03494
+239,exact name,remove,L02466
+240,exact name,remove,L04514
+241,exact name,remove,L01634
+242,different formatting,remove,L00752
+243,exact name,remove,L02119
+244,"same name in two cities, no city given",review,
+245,exact name,remove,L04189
+246,exact name,remove,L02092
+247,different formatting,remove,L04111
+248,different formatting,remove,L02886
+249,exact name,remove,L01891
+250,different formatting,remove,L01738
+251,exact name,remove,L01993
+252,name matches but city differs,review,
+253,typo in name,review,L04027
+254,exact name,remove,L02096
+255,different formatting,remove,L03763
+256,typo in name,review,L01796
+257,"same name in two cities, no city given",review,
+258,exact name,remove,L03717
+259,exact name,remove,L02765
+260,different formatting,remove,L03018
+261,exact name,remove,L04858
+262,exact name,remove,L03761
+263,exact name,remove,L03004
+264,exact name,remove,L02030
+265,"same name in two cities, city given",remove,L00021
+266,"same name in two cities, city given",remove,L00045
+267,"same name in two cities, city given",remove,L00041
+268,exact name,remove,L02449
+269,exact name,remove,L03091
+270,different formatting,remove,L02869
+271,"same name in two cities, city given",remove,L00051
+272,exact name,remove,L03108
+273,exact name,remove,L00487
+274,exact name,remove,L04622
+275,exact name,remove,L01824
+276,exact name,remove,L02595
+277,name matches but city differs,review,
+278,different formatting,remove,L02609
+279,different formatting,remove,L03275
+280,different formatting,remove,L02039
+281,exact name,remove,L03762
+282,different formatting,remove,L03982
+283,different formatting,remove,L01922
+284,name matches but city differs,review,
+285,different formatting,remove,L02459
+286,exact name,remove,L03120
+287,exact name,remove,L01657
+288,exact name,remove,L04568
+289,name matches but city differs,review,
+290,different formatting,remove,L04855
+291,exact name,remove,L02146
+292,"same name in two cities, city given",remove,L00005
+293,exact name,remove,L02113
+294,different formatting,remove,L03575
+295,typo in name,review,L02904
+296,exact name,remove,L04158
+297,exact name,remove,L02677
+298,different formatting,remove,L02842
+299,exact name,remove,L00524
+300,exact name,remove,L01182
+301,exact name,remove,L01725
+302,"same name in two cities, no city given",review,
+303,exact name,remove,L03555
+304,exact name,remove,L00501
+305,different formatting,remove,L03928
+306,exact name,remove,L02047
+307,name matches but city differs,review,
+308,exact name,remove,L00962
+309,exact name,remove,L01295
+310,exact name,remove,L00866
+311,typo in name,review,L01118
+312,exact name,remove,L04532
+313,typo in name,review,L02443
+314,not in the directory,not found,
+315,exact name,remove,L03551
+316,not in the directory,not found,
+317,"same name in two cities, city given",remove,L00025
+318,typo in name,review,L03570
+319,exact name,remove,L04479
+320,not in the directory,not found,
+321,"same name in two cities, no city given",review,
+322,exact name,remove,L03615
+323,exact name,remove,L02274
+324,exact name,remove,L02613
+325,exact name,remove,L01833
+326,different formatting,remove,L04289
+327,name matches but city differs,review,
+328,"same name in two cities, city given",remove,L00067
+329,"same name in two cities, city given",remove,L00011
+330,not in the directory,not found,
+331,exact name,remove,L00780
+332,different formatting,remove,L03048
+333,exact name,remove,L03736
+334,"same name in two cities, city given",remove,L00069
+335,exact name,remove,L01323
+336,"same name in two cities, city given",remove,L00043
+337,"same name in two cities, city given",remove,L00031
+338,"same name in two cities, city given",remove,L00001
+339,exact name,remove,L01455
+340,typo in name,review,L00942
+341,different formatting,remove,L00873
+342,exact name,remove,L04075
+343,different formatting,remove,L01485
+344,exact name,remove,L01112
+345,not in the directory,not found,
+346,"same name in two cities, city given",remove,L00077
+347,typo in name,review,L04661
+348,exact name,remove,L02224
+349,different formatting,remove,L02394
+350,exact name,remove,L00622
+351,different formatting,remove,L01675
+352,different formatting,remove,L00453
+353,exact name,remove,L02546
+354,exact name,remove,L04528
+355,"same name in two cities, no city given",review,
+356,not in the directory,not found,
+357,"same name in two cities, city given",remove,L00029
+358,typo in name,review,L04114
+359,different formatting,remove,L04215
+360,exact name,remove,L04433
+361,different formatting,remove,L03738
+362,exact name,remove,L00494
+363,typo in name,review,L03868
+364,exact name,remove,L02550
+365,name matches but city differs,review,
+366,typo in name,review,L03069
+367,different formatting,remove,L03648
+368,exact name,remove,L00614
+369,exact name,remove,L02048
+370,exact name,remove,L03806
+371,exact name,remove,L03822
+372,exact name,remove,L02263
+373,not in the directory,not found,
+374,"same name in two cities, city given",remove,L00013
+375,exact name,remove,L01057
+376,name matches but city differs,review,
+377,exact name,remove,L01164
+378,"same name in two cities, no city given",review,
+379,"same name in two cities, city given",remove,L00065
+380,name matches but city differs,review,
+381,"same name in two cities, city given",remove,L00071
+382,different formatting,remove,L03781
+383,exact name,remove,L04563
+384,exact name,remove,L03446
+385,typo in name,review,L00478
+386,different formatting,remove,L02089
+387,exact name,remove,L04122
+388,exact name,remove,L01121
+389,"same name in two cities, no city given",review,
+390,"same name in two cities, no city given",review,
+391,exact name,remove,L00693
+392,different formatting,remove,L04562
+393,"same name in two cities, no city given",review,
+394,name matches but city differs,review,
+395,exact name,remove,L04754
+396,exact name,remove,L04104
+397,exact name,remove,L02689
+398,exact name,remove,L04743
+399,exact name,remove,L03130
+400,exact name,remove,L03976
+401,different formatting,remove,L04147
+402,different formatting,remove,L03390
+403,not in the directory,not found,
+404,different formatting,remove,L03882
+405,typo in name,review,L03253
+406,different formatting,remove,L04539
+407,exact name,remove,L02199
+408,exact name,remove,L02696
+409,exact name,remove,L02956
+410,not in the directory,not found,
+411,exact name,remove,L01305
+412,exact name,remove,L02744
+413,exact name,remove,L00327
+414,exact name,remove,L01131
+415,exact name,remove,L03324
+416,exact name,remove,L03915
+417,different formatting,remove,L02556
+418,exact name,remove,L01136
+419,different formatting,remove,L03552
+420,exact name,remove,L00398
+421,typo in name,review,L00707
+422,typo in name,review,L03087
+423,different formatting,remove,L00859
+424,typo in name,review,L01729
+425,exact name,remove,L01069
+426,exact name,remove,L01119
+427,exact name,remove,L03950
+428,"same name in two cities, city given",remove,L00023
+429,typo in name,review,L04575
+430,"same name in two cities, city given",remove,L00009
+431,exact name,remove,L01299
+432,"same name in two cities, no city given",review,
+433,"same name in two cities, no city given",review,
+434,typo in name,review,L00335
+435,typo in name,review,L01162
+436,different formatting,remove,L03898
+437,name matches but city differs,review,
+438,different formatting,remove,L00403
+439,exact name,remove,L04269
+440,exact name,remove,L02814
+441,different formatting,remove,L00390
+442,exact name,remove,L01748
+443,"same name in two cities, city given",remove,L00059
+444,different formatting,remove,L04988
+445,different formatting,remove,L02825
+446,different formatting,remove,L02722
+447,exact name,remove,L04428
+448,exact name,remove,L04497
+449,exact name,remove,L02280
+450,typo in name,review,L00912
+451,exact name,remove,L03562
+452,different formatting,remove,L01466
+453,exact name,remove,L01222
+454,name matches but city differs,review,
+455,exact name,remove,L01209
+456,exact name,remove,L04659
+457,different formatting,remove,L01428
+458,different formatting,remove,L04044
+459,exact name,remove,L01220
+460,"same name in two cities, city given",remove,L00055
+461,different formatting,remove,L00516
+462,exact name,remove,L04673
+463,different formatting,remove,L03099
+464,exact name,remove,L00639
+465,exact name,remove,L01023
+466,exact name,remove,L01981
+467,typo in name,review,L01048
+468,exact name,remove,L02901
+469,not in the directory,not found,
+470,exact name,remove,L04400
+471,"same name in two cities, city given",remove,L00079
+472,exact name,remove,L01074
+473,exact name,remove,L03604
+474,exact name,remove,L03227
+475,"same name in two cities, city given",remove,L00061
+476,exact name,remove,L01749
+477,name matches but city differs,review,
+478,different formatting,remove,L03645
+479,exact name,remove,L04287
+480,exact name,remove,L01071
+481,exact name,remove,L00568
+482,exact name,remove,L04516
+483,exact name,remove,L04359
+484,exact name,remove,L03147
+485,name matches but city differs,review,
+486,typo in name,review,L03994
+487,exact name,remove,L04842
+488,typo in name,review,L04456
+489,exact name,remove,L04785
+490,"same name in two cities, no city given",review,
+491,exact name,remove,L04485
+492,different formatting,remove,L02085
+493,exact name,remove,L01858
+494,different formatting,remove,L02298
+495,exact name,remove,L03586
+496,exact name,remove,L00624
+497,different formatting,remove,L01554
+498,typo in name,review,L02350
+499,not in the directory,not found,
+500,exact name,remove,L02714
+501,typo in name,review,L00976
+502,exact name,remove,L03177
+503,"same name in two cities, city given",remove,L00063
+504,exact name,remove,L03682
+505,exact name,remove,L02888
+506,different formatting,remove,L00794
+507,"same name in two cities, city given",remove,L00049
+508,exact name,remove,L03484
+509,typo in name,review,L04640
+510,exact name,remove,L00504
+511,different formatting,remove,L04207
+512,exact name,remove,L04868
+513,exact name,remove,L01302
+514,different formatting,remove,L04028
+515,"same name in two cities, city given",remove,L00057
+516,"same name in two cities, city given",remove,L00047
+517,name matches but city differs,review,
+518,not in the directory,not found,
+519,exact name,remove,L04980
+520,exact name,remove,L04009
+521,exact name,remove,L02453
+522,different formatting,remove,L04283
+523,name matches but city differs,review,
+524,exact name,remove,L01418
+525,typo in name,review,L03620
+526,exact name,remove,L02741
+527,exact name,remove,L04878
+528,different formatting,remove,L03962
+529,exact name,remove,L02437
+530,typo in name,review,L02509
+531,"same name in two cities, city given",remove,L00039
+532,different formatting,remove,L03146
+533,different formatting,remove,L01874
+534,different formatting,remove,L04960
+535,different formatting,remove,L01700
+536,different formatting,remove,L00744
+537,"same name in two cities, city given",remove,L00035
+538,exact name,remove,L03107
+539,exact name,remove,L01009
+540,different formatting,remove,L00973
+541,different formatting,remove,L03730
+542,exact name,remove,L01988
+543,exact name,remove,L01768
+544,"same name in two cities, no city given",review,
+545,different formatting,remove,L00904
+546,exact name,remove,L02033
+547,exact name,remove,L03719
+548,different formatting,remove,L03705
+549,different formatting,remove,L03569
+550,different formatting,remove,L02419
+551,exact name,remove,L04193
+552,typo in name,review,L01186
+553,exact name,remove,L00496
+554,typo in name,review,L00579
+555,exact name,remove,L01308
+556,exact name,remove,L01326
+557,exact name,remove,L02247
+558,typo in name,review,L04787
+559,exact name,remove,L04965
+560,not in the directory,not found,
+561,exact name,remove,L00502
+562,exact name,remove,L02615
+563,exact name,remove,L02348
+564,exact name,remove,L03037
+565,exact name,remove,L02036
+566,exact name,remove,L04945
+567,exact name,remove,L03905
+568,exact name,remove,L02798
+569,"same name in two cities, no city given",review,
+570,different formatting,remove,L04726
+571,different formatting,remove,L01392
+572,exact name,remove,L04391
+573,different formatting,remove,L01259
+574,"same name in two cities, no city given",review,
+575,exact name,remove,L01639
+576,different formatting,remove,L03861
+577,exact name,remove,L02406
+578,"same name in two cities, city given",remove,L00027
+579,exact name,remove,L01260
+580,different formatting,remove,L02927
+581,exact name,remove,L02562
+582,exact name,remove,L02996
+583,exact name,remove,L03315
+584,exact name,remove,L03111
+585,"same name in two cities, no city given",review,
+586,different formatting,remove,L04832
+587,different formatting,remove,L03596
+588,"same name in two cities, no city given",review,
+589,exact name,remove,L04672
+590,exact name,remove,L00355
+591,different formatting,remove,L02236
+592,exact name,remove,L00600
+593,typo in name,review,L00846
+594,typo in name,review,L04465
+595,exact name,remove,L04326
+596,exact name,remove,L03864
+597,exact name,remove,L00687
+598,typo in name,review,L04875
+599,exact name,remove,L03224
+600,typo in name,review,L00911
